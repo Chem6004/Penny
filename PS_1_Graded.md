@@ -1,0 +1,8 @@
+- Submission on time: Yes -> 100%
+- Question 1: 20/20 
+- Question 2 20/20 
+- Question 3 20/20 
+- Question 4 20/20 
+- Question 5 20/20 
+- Cumulative Accuracy for questions:  100%
+- Final Grade for Orientation is 1/2(On Time + Accuracy) = 100%                                                          
